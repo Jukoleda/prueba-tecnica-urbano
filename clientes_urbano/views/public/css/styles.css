@@ -1,0 +1,16 @@
+/*body {
+    background: #20002c;  
+    background: -webkit-linear-gradient(to bottom, #cbb4d4, #20002c);  
+    background: linear-gradient(to bottom, #cbb4d4, #20002c); 
+}
+*/
+.fas {
+    cursor: pointer;
+    margin-left: 7px;
+}
+.enlace {
+    cursor: pointer;
+}
+.no-close .ui-dialog-titlebar-close {
+    display: none;
+}
